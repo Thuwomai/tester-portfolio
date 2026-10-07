@@ -13,7 +13,7 @@ GitHub Pages portfolio aligned with my Software Tester Intern CV.
 
 ## Projects
 ### NEXUS — Quantitative Investment Intelligence Platform
-Team Project (21 members) | Frontend Developer & QA Contributor | Aug 2026 – Present
+Team Project (21 members) | Frontend Developer | Aug 2026 – Present
 
 - Empty/Error State feature
 - Empty-data, API failure and retry test scenarios
