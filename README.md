@@ -29,9 +29,8 @@ Personal Project | Sep 2026 – Oct 2026
 - Microsoft Excel, Chrome DevTools and Git/GitHub
 
 ## Before publishing
-Replace:
-- NEXUS branch link
-- LunaBank repository link
+- NEXUS branch link: https://github.com/NicolasWillyam/nexus-fe/tree/feat/add-empty-and-error-states
+- LunaBank repository link: 
 
 ## GitHub Pages
 Repository → Settings → Pages → Deploy from a branch → `main` → `/ (root)` → Save.
