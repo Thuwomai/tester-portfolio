@@ -30,7 +30,7 @@ Personal Project | Sep 2026 – Oct 2026
 
 ## Before publishing
 - NEXUS branch link: https://github.com/NicolasWillyam/nexus-fe/tree/feat/add-empty-and-error-states
-- LunaBank test case link: 
+- LunaBank test case link: https://github.com/Thuwomai/LunaBank-Login-Test-Cases/tree/main
 
 ## GitHub Pages
 Repository → Settings → Pages → Deploy from a branch → `main` → `/ (root)` → Save.
